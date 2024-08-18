@@ -1,3 +1,5 @@
+#baic if else case
+
 height=int(input("enter your height in cm: "))
 if(height>165):
     print("they can ride the roller coster")
