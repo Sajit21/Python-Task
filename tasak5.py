@@ -1,4 +1,5 @@
 #baic if else case
+#use of if on if case
 
 height=int(input("enter your height in cm: "))
 if(height>165):
