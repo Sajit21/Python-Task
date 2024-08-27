@@ -19,6 +19,7 @@
 # twiay=int(52.14)
 # totalWL=TA*twiay
 # print(f"you have {totalWL} weeks left")
+#bill payment
 
 total_bill=float(input("enter the total bill: "))
 print(type(total_bill))
